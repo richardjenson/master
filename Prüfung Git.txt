@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 Datum von heute 24.09.2015.
 Heute haben wir Git Pr¸fung. 
+=======
+ITSE14b
+>>>>>>> pr√ºfung
