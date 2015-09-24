@@ -1,5 +1,6 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 Datum von heute 24.09.2015.
 Heute haben wir Git Prüfung. 
 =======
@@ -8,3 +9,6 @@ ITSE14b
 =======
 09:50
 >>>>>>> repo
+=======
+Bald ist die Abgabe der Prüfung
+>>>>>>> git
