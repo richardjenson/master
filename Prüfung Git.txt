@@ -1,6 +1,10 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 Datum von heute 24.09.2015.
 Heute haben wir Git Prüfung. 
 =======
 ITSE14b
 >>>>>>> prÃ¼fung
+=======
+09:50
+>>>>>>> repo
